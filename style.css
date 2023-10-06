@@ -1,0 +1,25 @@
+.container{
+    background-image: url(https://i.pinimg.com/originals/bb/92/b1/bb92b121bf451e64372bf92fbfc4ad42.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.heading{
+     background-color: cadetblue;
+}
+.section1{
+    font-family: sans-serif;
+    padding:20px;
+}
+.deco{
+    color:crimson;
+    font-family: fantasy;
+    text-align: center;
+   }
+   .section2{
+    font-family: sans-serif;
+    padding:20px;
+}
+.last{
+    background-color:yellow;
+}
